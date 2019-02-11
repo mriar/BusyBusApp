@@ -1,0 +1,49 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+nav {
+
+  font-family: sans-serif;
+  display: inline-block;
+  background-color: #585858;
+
+}
+.arrow {
+  color: white;
+  float: left;
+  display: inline-block;
+
+}
+.search {
+  float: right;
+  color: white;
+  display: inline-block;
+
+
+}
+
+h1 {
+
+  text-align: center;
+  line-height: normal;
+  color: white;
+}
+
+section {
+  display: inline-block;
+  background-color: #585858;
+}
+
+h3 {
+  color: white;
+  width: 720px;
+}
+
+ul {
+  list-style: none;
+  display: block;
+}
+h4 {
+  display: inline-block;
+}
