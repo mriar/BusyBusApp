@@ -4,21 +4,21 @@
 
 body {
   font-size: 16px;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 nav {
-  font-family: sans-serif;
   display: block;
   background-color: #4A4A4A;
 }
 
 .header {
-  height: 100px;
+  height: 150px;
 }
 
 .header div {
-  padding-top: 20px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   color: white;
   float: left;
   width: 20%;
@@ -86,10 +86,9 @@ h5 {
   display: inline-flex;
   margin-left: 30px;
   margin-right: 175.9px;
-  margin-top: 20px;
-  margin-bottom: 5px;
-
-  font-size: 2em;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 2.2em;
   font-weight: bolder;
 }
 
@@ -113,6 +112,7 @@ h5 {
 
 .upper_center {
   font-size: 2em;
+  font-weight: bolder;
   margin-left: 55px;
   width: 200px;
 }
@@ -120,6 +120,7 @@ h5 {
 .upper_right {
   font-size: 2em;
   margin-left: 120px;
+  font-weight: lighter;
   width: 300px;
 }
 ul {
